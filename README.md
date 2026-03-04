@@ -16,7 +16,7 @@
 
 <p align="left"><a href="https://github.com/angelomds42/AyumuFujinoBot">@AyumuFujinoBot</a> - A Telegram bot written in Python.</p>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/angelomds42">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=angelomds42&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
 </a>
